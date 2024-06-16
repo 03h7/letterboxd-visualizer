@@ -1,4 +1,4 @@
-import { Component, Show, createSignal, mergeProps, onMount } from "solid-js"
+import { Component, Show, createSignal, onMount } from "solid-js"
 import p5 from 'p5'
 import Matter from "matter-js";
 
